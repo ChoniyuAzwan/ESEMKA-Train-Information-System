@@ -1,0 +1,11 @@
+Use Case Diagram terdiri atas :
+Train Management, Route Management, Train Scheduling, Train Ticketing
+
+ERD menggunakan UML Database Notation
+
+database = EsemkaTrain
+
+table	= Routemanagement, trainmanagement, TrainScheduling, TrainTicketing
+
+views	= TrainBeRepaired (kereta yg harus diperbaiki)
+	  TrainNotBeUsed (kereta yg tidak boleh digunakan lagi)
